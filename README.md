@@ -9,7 +9,7 @@ Boumal, N., Mishra, B., Absil, P.-A., and Sepulchre, R. Manopt,
 a Matlab toolbox for optimization on manifolds. Journal of Machine
 Learning Research 15, 42 (2014), 1455–1459.
 
-And the forlder `RRAM_higher_dim' contains our own implemented functions and scripts. The code from manopt is among others necessary to compare the performance of the algorithm with. More specifically, we compare the performance of the Riemannian rank-adaptive method (RRAM) 'RRAM_TT_completion_gen.m' with the RRAM implemented in 'completion_rankincrease.m', which is part of the manopt software package and originates from the TTeMPS Matlab toolbox implemented by Michael Steinlechner. This function corresponds to the proposed algorithm in:
+And the folder `RRAM_higher_dim' contains our own implemented functions and scripts. The code from manopt is among others necessary to compare the performance of the algorithm with. More specifically, we compare the performance of the Riemannian rank-adaptive method (RRAM) 'RRAM_TT_completion_gen.m' with the RRAM implemented in 'completion_rankincrease.m', which is part of the manopt software package and originates from the TTeMPS Matlab toolbox implemented by Michael Steinlechner. This function corresponds to the proposed algorithm in:
 
 Steinlechner, M. Riemannian optimization for high-dimensional tensor
 completion. SIAM Journal on Scientific Computing 38, 5 (2016), S461–
